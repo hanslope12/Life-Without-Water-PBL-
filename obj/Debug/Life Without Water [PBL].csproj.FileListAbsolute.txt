@@ -1,0 +1,28 @@
+D:\Desktop\Life Without Water [PBL]\bin\Debug\Life Without Water [PBL].exe.config
+D:\Desktop\Life Without Water [PBL]\bin\Debug\Life Without Water [PBL].exe
+D:\Desktop\Life Without Water [PBL]\bin\Debug\Life Without Water [PBL].pdb
+D:\Desktop\Life Without Water [PBL]\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life Without Water [PBL].csprojAssemblyReference.cache
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life_Without_Water__PBL_.Properties.Resources.resources
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life Without Water [PBL].csproj.GenerateResource.cache
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life Without Water [PBL].csproj.CoreCompileInputs.cache
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life Without Water [PBL].csproj.CopyComplete
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life Without Water [PBL].exe
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life Without Water [PBL].pdb
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life_Without_Water__PBL_.MainMenuForm.resources
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life_Without_Water__PBL_.TitleScreenForm.resources
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life_Without_Water__PBL_.AboutForm.resources
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life_Without_Water__PBL_.CreditsForm.resources
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life_Without_Water__PBL_.DonateForm.resources
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life_Without_Water__PBL_.HighscoresForm.resources
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life_Without_Water__PBL_.IntroComicForm.resources
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life_Without_Water__PBL_.DailyHomeDistributionForm.resources
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life_Without_Water__PBL_.WinFormHehe.resources
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life_Without_Water__PBL_.NewDay_Display.resources
+D:\Desktop\Life Without Water [PBL]\obj\Debug\Life_Without_Water__PBL_.LOCATION_Stiminop.resources
+C:\Users\Lenovo\OneDrive\Desktop\School Codes\Life Without Water [PBL]\obj\Debug\Life Without Water [PBL].csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\School Codes\Life Without Water [PBL]\obj\Debug\Life Without Water [PBL].exe
+C:\Users\Lenovo\OneDrive\Desktop\School Codes\Life Without Water [PBL]\obj\Debug\Life Without Water [PBL].pdb
+C:\Users\Lenovo\OneDrive\Desktop\School Codes\PBLS\Life Without Water [PBL]\obj\Debug\Life Without Water [PBL].csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\School Codes\PBLS\Life Without Water [PBL]\obj\Debug\Life Without Water [PBL].exe
+C:\Users\Lenovo\OneDrive\Desktop\School Codes\PBLS\Life Without Water [PBL]\obj\Debug\Life Without Water [PBL].pdb
