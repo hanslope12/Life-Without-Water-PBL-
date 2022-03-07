@@ -1,2 +1,8 @@
 # Life-Without-Water--PBL-
  A game that was similar to a visual novel and a survival game where you need to pay attention and gather resources while maintaining hygiene and other daily needs.
+
+This file is a project made by a group of 5 people, with 2 coders.
+
+Game - The game itself plays out as more of a hybrid of a life-management sim and a normal resource management game.
+The user is put into the shoes of either a single person (easy difficulty), couple (medium difficulty), or family (hard difficulty) living in a town facing a water crisis.
+The game requires the user to help the family manage their limited water supply and make it last throughout a whole month -- up until when the shortage ends.
